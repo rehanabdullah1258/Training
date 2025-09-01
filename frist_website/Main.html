@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="my first">
+    <title>New Yemen</title>
+    <link rel="stylesheet" href="https://fontawesome.com/icons/link?f=classic&s=solid">
+</head>
+<style>
+    h1{
+        color: purple;
+    }
+.header{
+ margin-left: 20%;
+ margin-bottom: 2%;
+text-align: center;
+
+overflow: hidden;
+}
+ul{
+    list-style-type: none;
+}
+li {
+  float: left;
+}
+
+li a {
+  /* display: block; */
+  color: plum;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+li a:hover {
+  background-color:purple;
+}
+.sections{
+    text-align: center;
+    
+    /* background-color: darkgray; */
+    /* width: 60%; */
+    height: 50%;
+    /* margin-left: 20%; 
+    margin-right: 20%;  */
+}
+.footer {
+  position:fixed;
+  bottom:0;
+  left:0;
+  width:100%;
+  height: 90px;
+  background-color: #D0DAEE;
+}
+
+.container {
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+  font-size: 13px;
+}
+
+
+/* img { 
+  width: 100%;
+  height: 50;
+  /* opacity: 0.3; */
+/* } */ 
+.imges { 
+  width: 100%;
+  height: 50;
+  /* opacity: 0.3; */
+}
+
+
+/* .dashed-box {
+  position: relative;
+  z-index: 1;
+  border: dashed;
+  height: 8em;
+  margin-bottom: 1em;
+  margin-top: 2em;
+} */
+.gold-box {
+  position: absolute;
+   /* put .gold-box above .green-box and .dashed-box */
+  background: plum;
+  width: 10%;
+  height: 5%;
+  text-align: center;
+  
+  z-index: 2;
+}
+/* .green-box {
+  position: absolute;
+  z-index: 2; 
+  background: lightgreen;
+  width: 20%;
+  left: 65%;
+  top: -25px;
+  height: 7em;
+  opacity: 0.9;
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.columns {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.rows:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 5px;
+}
+
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+} */
+
+/* Style the counter cards */
+.card {
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+  padding: 16px;
+  text-align: center;
+  /* background-color: #444; */
+  color: black;
+}
+
+div.gallery {
+  padding: 15px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 100%;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+/* 
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}  */
+
+/* @media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}  */
+@media screen and (min-width: 720px) {
+  body {
+    background-color: pink;
+  }
+}
+@media screen and (max-width: 720px) {
+  #rightsidebar {width: 300px; float: right; height: 150px}
+  #main {margin-right: 200px;}
+}
+
+@media screen and (max-width: 480px) {
+  
+  .header{
+    display: none;
+  }
+  .dropdown{
+    display: inline-block;
+
+  }
+}
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+.dropdown {
+  position: relative;
+  display: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+</style>
+<body>
+ <div class="header" ><ul> <li><a href="#home">Home</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#news">News</a></li>
+
+    <li><a href="#news">News</a></li>
+    
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#about">About</a></li> 
+
+
+</ul></div>
+<div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+    <div id="myDropdown" class="dropdown-content">
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </div>  
+ <div class="sections">
+ <div class="container">
+    <img src="s.jfif" alt="Cinque Terre" width=100% height="300">
+    <div class="center" style="color: purple;"><h1>our business rang</h1>
+    <h5 style="color: palevioletred;">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, quibusdam.</h5>
+    <button style=" background-color: palevioletred;"> click <i class='fas fa-arrow-right'></i></button>
+
+</div>
+</div>
+  <h1 style="color: palevioletred;">New Yemen</h1>
+  <hr style="width: 7%;border: 1px solid palevioletred;">
+ <p style="width:80% ; padding-left: 30%; ">
+   
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum repellat commodi labore possimus quos aliquid atque neque sunt vero! Repellendus itaque inventore, non neque minus quos iure omnis ducimus rerum cupiditate a eligendi provident. Eius placeat facere dolor dignissimos molestiae voluptas error neque ullam illo!
+   
+ </p>
+ <button style=" background-color: palevioletred;margin-bottom: 5%;"> click <i class='fas fa-arrow-right'></i></button>
+</div>
+<!-- <div class="footer"><p>footer</p> -->
+</div>
+<div class="sections"style="background-color: darkgray;">
+    
+    <h1>Our Services</h1>
+    <hr style="width: 7%;border: 1px solid palevioletred;">
+    <!-- <div class="row">
+        <div class="col-lg-5"></div>
+    </div> -->
+<div class="container" >
+    <div class="row" style="margin-left: 20%;">
+        <div class="responsive">
+            <div class="gallery" >
+                <img src="one.avif" alt="Cinque Terre" width="800" height="600" style="position: relative; z-index: 1;">
+                <div class="responsivee">
+                <div class= "gold-box" style="  top: 15%; " > description</div></div>
+            </div>
+          </div>
+    
+          <div class="responsive">
+            <div class="gallery" >
+                <img src="one.avif" alt="Cinque Terre" width="800" height="600" style="position: relative; z-index: 1;">
+              <div class= "gold-box" style="  top: 15%; " >description</div>
+            </div>
+          </div>
+          <div class="responsive">
+            <div class="gallery">
+                <img src="one.avif" alt="Cinque Terre" width="800" height="600" style="position: relative; z-index: 1;">
+                <div class= "gold-box" style="  top:15% " >description</div>
+            </div>
+          </div>
+</div>
+  
+<div class="row" style="margin-left: 20%;">
+    <div class="responsive">
+        <div class="gallery" >
+            <img src="one.avif" alt="Cinque Terre" width="800" height="600"  style="position: relative; z-index: 1;">
+          <div class= "gold-box" style="  top: 52%; " >description</div>
+        </div>
+      </div>
+        
+        
+      <div class="responsive">
+        <div class="gallery" >
+            <img src="one.avif" alt="Cinque Terre" width="800" height="600"  style="position: relative; z-index: 1;">
+          <div class= "gold-box" style="  top: 52%; " >description</div>
+        </div>
+      </div>
+      <div class="responsive">
+        <div class="gallery">
+            <img src="one.avif" alt="Cinque Terre" width="800" height="600"  style="position: relative; z-index: 1;">
+          <div class= "gold-box"  style="  top: 52%; " >description</div>
+        </div>
+      </div>
+
+</div>
+  
+
+<button style=" background-color: palevioletred;margin-bottom: 5%; margin-top: 5%;"> click <i class='fas fa-arrow-right'></i></button>
+</div>
+</div>
+
+
+<div class="sections">
+    <h1>Lastest new & updates</h1>
+    <hr style="width: 7%;border: 1px solid palevioletred;">
+<div class="container" >
+   <!-- <img src ="imag.jpg" alt="Cinque Terre" width="200" height="200" style="margin-left: 5%;">   
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="200" style="margin-left: 5%;"> 
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="200"style="margin-left: 5%;"> 
+   <p style="margin-right: 45%;">Lorem ipsum dolor sit amet.</p>
+   <p style="margin-right: 45%; ">Lorem ipsum dolor </p>
+
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="200"style="margin-left: 5%;"> 
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="200"style="margin-left: 5%; "> 
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="200"style="margin-left: 5%; ">  -->
+   <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="imag.jpg">
+        <img src="imag.jpg" alt="Cinque Terre" width="600" height="400">
+      </a>
+      <div class="desc">Add a description of the image here</div>
+    </div>
+  </div>
+  
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="imag.jpg">
+        <img src="imag.jpg" alt="Forest" width="600" height="400">
+      </a>
+      <div class="desc">Add a description of the image here</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="imag.jpg">
+        <img src="imag.jpg" alt="Northern Lights" width="600" height="400">
+      </a>
+      <div class="desc">Add a description of the image here</div>
+    </div>
+  </div>
+  
+  <div class="responsive">
+    <div class="gallery">
+      <a target="_blank" href="imag.jpg">
+        <img src="imag.jpg" alt="Mountains" width="600" height="400">
+      </a>
+      <div class="desc">Add a description of the image here</div>
+    </div>
+  </div>
+ 
+  <div class="clearfix"></div>
+  
+  </div>
+<button style=" background-color: palevioletred;margin-bottom: 5%; margin-top: 5%;"> click <i class='fas fa-arrow-right'></i></button>
+</div>
+</div>
+
+<div class="sections"style="background-color: darkgray;">
+    <h1>Activities and events</h1>
+    <hr style="width: 7%;border: 1px solid palevioletred;">
+<div class="container" style="width: 70%; margin-left: 15%;" >
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="230" style="margin-left: 5%;">   
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="230" style="margin-left: 5%;"> 
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="230"style="margin-left: 5%;">    
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="230"style="margin-left: 5%; margin-top:5%; "> 
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="230"style="margin-left: 5%; margin-top:5%;"> 
+   <img src ="imag.jpg" alt="Cinque Terre" width="200" height="230"style="margin-left: 5%; margin-top:5%;"> 
+  </div>
+<button style=" background-color: palevioletred;margin-bottom: 5%; margin-top: 5%;"> click <i class='fas fa-arrow-right'></i></button>
+</div>
+</div>
+
+<div class="sections">
+    
+<div class="container" >
+   <img src ="imag.jpg" alt="Cinque Terre" width=100% height="300" style="opacity: 0.5;"> 
+   <div class="center"><h1>our business rang</h1>
+    <hr style="width: 7%;border: 1px solid palevioletred;">
+    <div class="row">
+        <div class="column">
+          <div class="card">
+            <h3>11+</h3>
+            <hr style="width: 7%;border: 1px solid palevioletred;">
+
+            <p>Partners</p>
+          </div>
+        </div>
+      
+        <div class="column">
+          <div class="card">
+           
+            <h3>55+</h3>
+            <hr style="width: 7%;border: 1px solid palevioletred;">
+
+            <p>Projects</p>
+          </div>
+        </div>
+        
+        <div class="column">
+          <div class="card">
+            <h3>100+</h3>
+            <hr style="width: 7%;border: 1px solid palevioletred;">
+
+            <p>Happy Clients</p>
+          </div>
+        </div>
+        
+        <div class="column">
+          <div class="card">
+            <h3>100+</h3>
+            <hr style="width: 7%;border: 1px solid palevioletred;">
+            <p>Meetings</p>
+          </div>
+        </div>
+      </div>
+
+</div><h1>Activities and events</h1>
+<hr style="width: 7%;border: 1px solid palevioletred;">
+
+</div></div>
+<div style="overscroll-behavior-x:auto;padding-bottom: 3%; ">
+    <img src ="imag.jpg" alt="Cinque Terre" width="100" height="40" style="padding-left: 10%;" >   
+    <img src ="imag.jpg" alt="Cinque Terre" width="100" height="40"style="padding-left: 3%;" > 
+    <img src ="imag.jpg" alt="Cinque Terre" width="100" height="40"style="padding-left: 3%;">    
+    <img src ="imag.jpg" alt="Cinque Terre" width="100" height="40"style="padding-left: 3%;"> 
+    <img src ="imag.jpg" alt="Cinque Terre" width="100" height="40"style="padding-left: 3%;"> 
+    <img src ="imag.jpg" alt="Cinque Terre" width="100" height="40"style="padding-left: 3%;"> 
+    <img src ="imag.jpg" alt="Cinque Terre" width="100" height="40"style="padding-left: 3%;"> 
+    <img src ="imag.jpg" alt="Cinque Terre" width="100" height="40"style="padding-left: 3%;"> 
+   </div>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3847.342641723051!2d44.1896904252999!3d15.357918685223227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1603dbf025eacd59%3A0x466803997fad1a68!2z2YbZitmI2KrYp9iq2LQg2YTZhNit2YTZiNmEINin2YTYqtmC2YbZitipINin2YTYsNmD2YrYqQ!5e0!3m2!1sar!2s!4v1715292274719!5m2!1sar!2s" width=100% height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="rows">
+    <div class="columns" style="background-color:#aaa;">
+      <h2>Column 1</h2>
+      <p>Some text..</p>
+    </div>
+    <div class="columns" style="background-color:#bbb;">
+      <h2>Column 2</h2>
+      <p>Some text..</p>
+    </div>
+    <div class="columns" style="background-color:#ccc;">
+      <h2>Column 3</h2>
+      <p>Some text..</p>
+    </div>
+  </div>
+  <script>
+    function myFunction() {
+      document.getElementById("myDropdown").classList.toggle("show");
+    }
+   
+    window.onclick = function(event) {
+      if (!event.target.matches('.dropbtn')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+    </script>
+    
+<!-- <footer>footer</footer> -->
+</body>
+</html>
