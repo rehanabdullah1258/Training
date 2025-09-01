@@ -1,0 +1,1240 @@
+<mxfile host="Electron" modified="2024-07-23T07:01:13.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="uly7G2V3b7afhjSaQlyG" version="21.6.8" type="device">
+  <diagram name="Page-1" id="xGG3PHxlmALT7tAePpgI">
+    <mxGraphModel dx="864" dy="2823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-81" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-138" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-83" value="التاجر" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-2240" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-82" value="IDالتاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-83" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-88" value="خطة الاشتراك(مجاني-ماكس-بروماكس" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-83" vertex="1">
+          <mxGeometry x="-10" y="130" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-87" value="رقم الهاتف" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-83" vertex="1">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-86" value="كلمة المرور" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-83" vertex="1">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-85" value="البريد الالكتروني" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-83" vertex="1">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-84" value="اسم التاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-83" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-90" value="التسويق" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-1760" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-91" value="اسم الحمله" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-90" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-95" value="تاريخ انتهاء الحمله" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-90" vertex="1">
+          <mxGeometry x="50" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-96" value="تاريخ بدء الحمله" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-90" vertex="1">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-97" value="وصف الحمله" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-90" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-159" value="&amp;nbsp;(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-90" vertex="1">
+          <mxGeometry x="10" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-98" value="الشحن" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-1760" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-99" value="IDالشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-98" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-102" value="تاريخ االتسليم" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-98" vertex="1">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-103" value="تاريخ الشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-98" vertex="1">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-104" value="رقم التبع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-98" vertex="1">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-105" value="شركة الشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-98" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-150" value="&amp;nbsp;(foreign key) IDالطلبيه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-98" vertex="1">
+          <mxGeometry x="10" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-114" value="الطلب" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-2000" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-115" value="IDالطلبيه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-114" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-119" value="اجمالي المبلغ" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-114" vertex="1">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-121" value="تاريخ الطلب" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-114" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-147" value="&amp;nbsp;(foreign key) IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-114" vertex="1">
+          <mxGeometry x="10" y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-148" value="&amp;nbsp;(foreign key) IDالشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-114" vertex="1">
+          <mxGeometry x="10" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-149" value="&amp;nbsp;(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-114" vertex="1">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-169" value="&amp;nbsp;(foreign key) IDالدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-114" vertex="1">
+          <mxGeometry x="10" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-122" value="المورد" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-2000" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-123" value="IDالمورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-122" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-127" value="هاتف المورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-122" vertex="1">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-128" value="عنوان المورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-122" vertex="1">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-129" value="اسم المورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-122" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-130" value="المنتج" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="-2240" width="150" height="190" as="geometry">
+            <mxRectangle x="640" y="-2240" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-131" value="IDالمنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-130" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-132" value="&amp;nbsp;(foreign key) IDالمورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-130" vertex="1">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-133" value="المخزون" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-130" vertex="1">
+          <mxGeometry x="70" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-134" value="صورة المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-130" vertex="1">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-135" value="سعر المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-130" vertex="1">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-136" value="وصف المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-130" vertex="1">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-137" value="اسم المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-130" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-146" value="(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-130" vertex="1">
+          <mxGeometry x="10" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-138" value="المتجر" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-2240" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-151" value="التقارير" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="-1760" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-152" value="IDالتقرير" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-151" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-155" value="اجمالي المبيعات" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-151" vertex="1">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-156" value="تاريخ التقرير" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-151" vertex="1">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-157" value="وصف التقرير" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-151" vertex="1">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-158" value="اسم التقرير" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-151" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-160" value="&amp;nbsp;(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-151" vertex="1">
+          <mxGeometry x="10" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-161" value="بوابة الدفع" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="-1520" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-162" value="IDالدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-161" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-166" value="طرق الدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-161" vertex="1">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-167" value="رسوم الدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="GIVPeuw50BcNMcYK7qwg-161" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GIVPeuw50BcNMcYK7qwg-82" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="-2150" as="sourcePoint" />
+            <mxPoint x="320" y="-2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-2140" as="sourcePoint" />
+            <mxPoint x="640" y="-2080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-2080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="GIVPeuw50BcNMcYK7qwg-99" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="-1900" as="sourcePoint" />
+            <mxPoint x="200" y="-1700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="-1900" />
+              <mxPoint x="200" y="-1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="-1870" as="sourcePoint" />
+            <mxPoint x="640" y="-1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="-1870" />
+              <mxPoint x="260" y="-1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="GIVPeuw50BcNMcYK7qwg-114" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-2040" as="sourcePoint" />
+            <mxPoint x="640" y="-2110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="-2110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="GIVPeuw50BcNMcYK7qwg-147" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="-1920" as="sourcePoint" />
+            <mxPoint x="640" y="-1960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.2;entryY=1.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="GIVPeuw50BcNMcYK7qwg-146" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="-2000" as="sourcePoint" />
+            <mxPoint x="680" y="-2040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="-2050" />
+              <mxPoint x="530" y="-2050" />
+              <mxPoint x="600" y="-2050" />
+              <mxPoint x="600" y="-2020" />
+              <mxPoint x="680" y="-2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="GIVPeuw50BcNMcYK7qwg-151" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="-2080" as="sourcePoint" />
+            <mxPoint x="610" y="-1740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="-2080" />
+              <mxPoint x="220" y="-2015" />
+              <mxPoint x="560" y="-2015" />
+              <mxPoint x="560" y="-2000" />
+              <mxPoint x="560" y="-1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;يملك&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-2230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-14" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="592" y="-1946" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;يوفر&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-2077" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-17" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="78" y="-2028" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-18" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="-1766" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;يملك&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="-2040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-20" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-2106" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-21" value="&lt;p style=&quot;mso-margin-top-alt:auto;mso-margin-bottom-alt:&lt;br/&gt;auto;line-height:normal&quot; dir=&quot;RTL&quot; class=&quot;MsoNormal&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:22.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:0pt;mso-ligatures:&lt;br/&gt;none&quot; lang=&quot;AR-SA&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;*&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="-2106" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;يملك&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="-2106" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-23" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="384" y="-2140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-24" value="&lt;p style=&quot;mso-margin-top-alt:auto;mso-margin-bottom-alt:&lt;br/&gt;auto;line-height:normal&quot; dir=&quot;RTL&quot; class=&quot;MsoNormal&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:22.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:0pt;mso-ligatures:&lt;br/&gt;none&quot; lang=&quot;AR-SA&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;*&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="-2140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-25" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-2020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-26" value="&lt;p style=&quot;mso-margin-top-alt:auto;mso-margin-bottom-alt:&lt;br/&gt;auto;line-height:normal&quot; dir=&quot;RTL&quot; class=&quot;MsoNormal&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:22.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:0pt;mso-ligatures:&lt;br/&gt;none&quot; lang=&quot;AR-SA&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;*&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="-2230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-27" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-2230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;يتضمن&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="-2140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;يدفع&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="246" y="-1705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-32" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="274" y="-1874" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-33" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-1749" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;يشحن&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-1840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-35" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="-1925" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;يطلب&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="-1946" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-40" value="&lt;p style=&quot;mso-margin-top-alt:auto;mso-margin-bottom-alt:&lt;br/&gt;auto;line-height:normal&quot; dir=&quot;RTL&quot; class=&quot;MsoNormal&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:22.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:0pt;mso-ligatures:&lt;br/&gt;none&quot; lang=&quot;AR-SA&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;*&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="-1946" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-48" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="-1500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWGKBm8tfRzG3LtTpdi-49" value="&lt;p style=&quot;mso-margin-top-alt:auto;mso-margin-bottom-alt:&lt;br/&gt;auto;line-height:normal&quot; dir=&quot;RTL&quot; class=&quot;MsoNormal&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:22.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:0pt;mso-ligatures:&lt;br/&gt;none&quot; lang=&quot;AR-SA&quot;&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;&lt;span dir=&quot;RTL&quot;&gt;&lt;/span&gt;*&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="-2040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-1" value="المنتج" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-1370" width="100" height="190" as="geometry">
+            <mxRectangle x="640" y="-2240" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-2" value="IDالمنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-1">
+          <mxGeometry x="20" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-3" value="&amp;nbsp;(foreign key) IDالمورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-1">
+          <mxGeometry x="-40" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-4" value="المخزون" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-1">
+          <mxGeometry x="20" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-5" value="صورة المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-1">
+          <mxGeometry x="20" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-6" value="سعر المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-1">
+          <mxGeometry x="20" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-7" value="وصف المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-1">
+          <mxGeometry x="20" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-8" value="اسم المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-1">
+          <mxGeometry x="20" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-9" value="(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-1">
+          <mxGeometry x="-40" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-10" value="المتجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-1370" width="150" height="190" as="geometry">
+            <mxRectangle x="640" y="-2240" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-12" value="IDالعنوان" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-10">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-13" value="الحاله" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-10">
+          <mxGeometry x="70" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-14" value="تاريخ الاشتراك" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-10">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-15" value="الشعار" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-10">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-18" value="نوع المتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-10">
+          <mxGeometry x="10" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-139" value="IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6oS1rtMUOBLfojrCacD_-10" vertex="1">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-144" value="&amp;nbsp;(foreign key) IDالتاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6oS1rtMUOBLfojrCacD_-10" vertex="1">
+          <mxGeometry x="10" y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GIVPeuw50BcNMcYK7qwg-145" value="اسم المتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6oS1rtMUOBLfojrCacD_-10" vertex="1">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-19" value="المنتج" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1370" width="150" height="190" as="geometry">
+            <mxRectangle x="640" y="-2240" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-20" value="IDالمنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-19">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-21" value="&amp;nbsp;(foreign key) IDالمورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-19">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-22" value="المخزون" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-19">
+          <mxGeometry x="70" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-23" value="صورة المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-19">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-24" value="سعر المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-19">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-25" value="وصف المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-19">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-26" value="اسم المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-19">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-27" value="(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-19">
+          <mxGeometry x="10" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-28" value="بوابة الدفع" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-1130" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-29" value="IDالدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-28">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-30" value="طرق الدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-28">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-31" value="رسوم الدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-28">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-32" value="بوابة الدفع" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-1130" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-33" value="IDالدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-32">
+          <mxGeometry x="30" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-34" value="طرق الدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-32">
+          <mxGeometry x="30" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-35" value="رسوم الدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-32">
+          <mxGeometry x="30" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-36" value="بوابة الدفع" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-1130" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-37" value="IDالدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-36">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-38" value="طرق الدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-36">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-39" value="رسوم الدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-36">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-40" value="الشحن" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-1000" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-41" value="IDالشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-40">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-42" value="تاريخ االتسليم" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-40">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-43" value="تاريخ الشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-40">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-44" value="رقم التبع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-40">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-45" value="شركة الشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-40">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-46" value="&amp;nbsp;(foreign key) IDالطلبيه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-40">
+          <mxGeometry x="10" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-47" value="الشحن" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-1000" width="92" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-48" value="IDالشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-47">
+          <mxGeometry x="12" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-49" value="تاريخ االتسليم" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-47">
+          <mxGeometry x="12" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-50" value="تاريخ الشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-47">
+          <mxGeometry x="12" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-51" value="رقم التبع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-47">
+          <mxGeometry x="12" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-52" value="شركة الشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-47">
+          <mxGeometry x="12" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-53" value="&amp;nbsp;(foreign key) IDالطلبيه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-47">
+          <mxGeometry x="-48" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-54" value="الشحن" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="-1000" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-55" value="IDالشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-54">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-56" value="تاريخ االتسليم" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-54">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-57" value="تاريخ الشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-54">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-58" value="رقم التبع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-54">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-59" value="شركة الشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-54">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-60" value="&amp;nbsp;(foreign key) IDالطلبيه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-54">
+          <mxGeometry x="10" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-61" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="-800" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-62" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-61">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-63" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-61">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-64" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-61">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-65" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-61">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-66" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="-800" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-67" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-66">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-68" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-66">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-69" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-66">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-70" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-66">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-71" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="-800" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-72" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-71">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-73" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-71">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-74" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-71">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-75" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-71">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-76" value="المنتج" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-640" width="150" height="190" as="geometry">
+            <mxRectangle x="640" y="-2240" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-77" value="IDالمنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-76">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-78" value="&amp;nbsp;(foreign key) IDالمورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-76">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-79" value="المخزون" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-76">
+          <mxGeometry x="70" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-80" value="صورة المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-76">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-81" value="سعر المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-76">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-82" value="وصف المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-76">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-83" value="اسم المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-76">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-84" value="(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-76">
+          <mxGeometry x="10" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-85" value="المنتج" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-640" width="150" height="190" as="geometry">
+            <mxRectangle x="640" y="-2240" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-86" value="IDالمنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-85">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-87" value="&amp;nbsp;(foreign key) IDالمورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-85">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-88" value="المخزون" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-85">
+          <mxGeometry x="70" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-89" value="صورة المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-85">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-90" value="سعر المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-85">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-91" value="وصف المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-85">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-92" value="اسم المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-85">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-93" value="(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-85">
+          <mxGeometry x="10" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-94" value="المنتج" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-640" width="150" height="190" as="geometry">
+            <mxRectangle x="640" y="-2240" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-95" value="IDالمنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-94">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-96" value="&amp;nbsp;(foreign key) IDالمورد" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-94">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-98" value="صورة المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-94">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-99" value="سعر المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-94">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-100" value="وصف المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-94">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-101" value="اسم المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-94">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-102" value="(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-94">
+          <mxGeometry x="10" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-379" value="IDالنوع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-94">
+          <mxGeometry x="70" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-103" value="التاجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="-410" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-104" value="IDالتاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-103">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-105" value="خطة الاشتراك(مجاني-ماكس-بروماكس" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-103">
+          <mxGeometry x="-10" y="130" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-106" value="رقم الهاتف" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-103">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-107" value="كلمة المرور" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-103">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-108" value="البريد الالكتروني" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-103">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-109" value="اسم التاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-103">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-110" value="التاجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="-410" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-111" value="IDالتاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-110">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-112" value="خطة الاشتراك(مجاني-ماكس-بروماكس" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-110">
+          <mxGeometry x="-10" y="130" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-113" value="رقم الهاتف" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-110">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-114" value="كلمة المرور" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-110">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-115" value="البريد الالكتروني" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-110">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-116" value="اسم التاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-110">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-117" value="التاجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="-410" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-118" value="IDالتاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-117">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-120" value="رقم الهاتف" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-117">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-121" value="كلمة المرور" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-117">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-122" value="البريد الالكتروني" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-117">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-123" value="اسم التاجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-117">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-124" value="الطلب" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-200" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-125" value="IDالطلبيه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-124">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-126" value="اجمالي المبلغ" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-124">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-127" value="تاريخ الطلب" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-124">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-128" value="&amp;nbsp;(foreign key) IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-124">
+          <mxGeometry x="10" y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-129" value="&amp;nbsp;(foreign key) IDالشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-124">
+          <mxGeometry x="10" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-130" value="&amp;nbsp;(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-124">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-131" value="&amp;nbsp;(foreign key) IDالدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-124">
+          <mxGeometry x="10" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-132" value="الطلب" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-200" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-133" value="IDالطلبيه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-132">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-134" value="اجمالي المبلغ" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-132">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-135" value="تاريخ الطلب" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-132">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-136" value="&amp;nbsp;(foreign key) IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-132">
+          <mxGeometry x="10" y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-137" value="&amp;nbsp;(foreign key) IDالشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-132">
+          <mxGeometry x="10" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-138" value="&amp;nbsp;(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-132">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-139" value="&amp;nbsp;(foreign key) IDالدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-132">
+          <mxGeometry x="10" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-140" value="الطلب" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-200" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-141" value="IDالطلبيه" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-140">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-142" value="اجمالي المبلغ" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-140">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-143" value="تاريخ الطلب" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-140">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-144" value="&amp;nbsp;(foreign key) IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-140">
+          <mxGeometry x="10" y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-145" value="&amp;nbsp;(foreign key) IDالشحن" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-140">
+          <mxGeometry x="10" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-146" value="&amp;nbsp;(foreign key) IDالمتجر" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-140">
+          <mxGeometry x="10" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-147" value="&amp;nbsp;(foreign key) IDالدفع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-140">
+          <mxGeometry x="10" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-208" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-1980" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-209" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-208">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-210" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-208">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-211" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-208">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-212" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-208">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-178" value="نوع المتجر" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-179" value="IDالنوع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-178">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-181" value="حالة النوع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-178">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-182" value="اسم النوع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-178">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-183" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-184" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-183">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-185" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-183">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-186" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-183">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-187" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-183">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-188" value="عنوان المتجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-189" value="الدولة" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-188">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-190" value="خطوط الطول والعرض" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-188">
+          <mxGeometry x="40" y="110" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-191" value="العنوان التفصيلي" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-188">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-192" value="المينة" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-188">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-380" value="IDالعنوان" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-188">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-198" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-199" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-198">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-200" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-198">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-201" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-198">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-202" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-198">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-203" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-204" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-203">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-205" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-203">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-206" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-203">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-207" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-203">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-193" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="160" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-194" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-193">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-195" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-193">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-196" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-193">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-197" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-193">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-213" value="الاشتراك" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-214" value="رقم الاشتراك" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-213">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-215" value="تاريخ الاشتراك" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-213">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-216" value="حالة الاشتراك" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-213">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-217" value="نوع الاشتراك" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-213">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-218" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-219" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-218">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-220" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-218">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-221" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-218">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-222" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-218">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-223" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="320" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-224" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-223">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-225" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-223">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-226" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-223">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-227" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-223">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-228" value="نوع المتجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-229" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-228">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-230" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-228">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-231" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-228">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-232" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-228">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-233" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-234" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-233">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-235" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-233">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-236" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-233">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-237" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-233">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-238" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="480" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-239" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-238">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-240" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-238">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-241" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-238">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-242" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-238">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-243" value="نوع المنتج" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="650" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-244" value="رقم النوع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-243">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-246" value="الحاله" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-243">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-247" value="اسم النوع" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-243">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-248" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="650" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-249" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-248">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-250" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-248">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-251" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-248">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-252" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-248">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-253" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="650" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-254" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-253">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-255" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-253">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-256" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-253">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-257" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-253">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-288" value="نوع المتجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="820" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-289" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-288">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-290" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-288">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-291" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-288">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-292" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-288">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-293" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="820" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-294" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-293">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-295" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-293">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-296" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-293">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-297" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-293">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-298" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="820" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-299" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-298">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-300" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-298">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-301" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-298">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-302" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-298">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-303" value="معلومات المنتج" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645.5" y="990" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-304" value="IDالمنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-303">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-305" value="حالة المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-303">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-306" value="لون المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-303">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-307" value="مقاس المنتج" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-303">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-378" value="البراند" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-303">
+          <mxGeometry x="70" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-308" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495.5" y="990" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-309" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-308">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-310" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-308">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-311" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-308">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-312" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-308">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-313" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="990" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-314" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-313">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-315" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-313">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-316" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-313">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-317" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-313">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-318" value="نوع المتجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1160" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-319" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-318">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-320" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-318">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-321" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-318">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-322" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-318">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-323" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1160" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-324" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-323">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-325" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-323">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-326" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-323">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-327" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-323">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-328" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1160" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-329" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-328">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-330" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-328">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-331" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-328">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-332" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-328">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-348" value="نوع المتجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1320" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-349" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-348">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-350" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-348">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-351" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-348">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-352" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-348">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-353" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1320" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-354" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-353">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-355" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-353">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-356" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-353">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-357" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-353">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-358" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1320" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-359" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-358">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-360" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-358">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-361" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-358">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-362" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-358">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-363" value="نوع المتجر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="1490" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-364" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-363">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-365" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-363">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-366" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-363">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-367" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-363">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-368" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="1490" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-369" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-368">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-370" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-368">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-371" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-368">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-372" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-368">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-373" value="العميل" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1490" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-374" value="IDالعميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-373">
+          <mxGeometry x="70" y="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-375" value="عنوان العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-373">
+          <mxGeometry x="70" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-376" value="بريد العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-373">
+          <mxGeometry x="70" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6oS1rtMUOBLfojrCacD_-377" value="اسم العميل" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6oS1rtMUOBLfojrCacD_-373">
+          <mxGeometry x="70" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
